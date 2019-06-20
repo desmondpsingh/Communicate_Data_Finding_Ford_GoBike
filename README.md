@@ -1,4 +1,5 @@
 # Ford GoBike System Data Analysis
+## by Desmond Singh
 
 ### Dataset
 This project contains data set from Ford GoBike is a public bicycle sharing system in the San Francisco Bay Area.
@@ -15,6 +16,3 @@ Through the analysis i found that both users utilized the bike share system more
 ### Key Insights for Presentation
 
 For presentation, I focused on influence of month, weekday, hours and I also filtered data to include age groups 65 and under since 95% of users were under 57. I alse used different color palletes to differentiate genders & User_type. I also used the Heatmap to show when bikes are high in demand through the week. 
-
-
-
